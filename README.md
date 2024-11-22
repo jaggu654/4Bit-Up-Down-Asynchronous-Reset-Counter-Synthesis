@@ -66,10 +66,13 @@ used.
 #### Synthesis RTL Schematic :
 
 #### Area report:
+![Screenshot 2024-11-16 164812](https://github.com/user-attachments/assets/d6c1705a-18c2-4500-a832-bab9d3b71daa)
 
 #### Power Report:
+![Screenshot 2024-11-16 164830](https://github.com/user-attachments/assets/47537c4d-4c89-49db-9a9a-14ff7b5bb194)
 
 #### Timing Report: 
+![Screenshot 2024-11-16 164842](https://github.com/user-attachments/assets/b175e9f0-eded-4fbf-b0a1-b2713d05c509)
 
 #### Result: 
 
